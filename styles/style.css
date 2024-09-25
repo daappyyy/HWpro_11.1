@@ -1,0 +1,23 @@
+.head-wrapper{
+    padding: 20px 0;
+    background-color: rgb(243, 106, 186);
+}
+.head-title{
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: #ffffff;
+}
+.table-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    margin: 50px auto;
+    border: 2px solid black;
+}
+.table-wrapper div{
+    border: 1px solid black;
+    flex: 0 0 10%;
+    text-align: center;
+    padding: 15px 0;
+}
